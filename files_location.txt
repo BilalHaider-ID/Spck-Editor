@@ -1,0 +1,1 @@
+Termux_Location = ["/storage/emulated/0/Android/data/io.spck/files/"]
